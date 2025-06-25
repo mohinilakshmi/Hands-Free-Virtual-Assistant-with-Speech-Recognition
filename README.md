@@ -90,11 +90,3 @@ Then say **"start"** to activate the assistant.
 * "what is the time"
 * "stop" / "pause"
 * "exit" / "bye"
-
-```
-
----
-
-### ✅ Tip:
-Save this as `README.md` in your project folder. Let me know if you want the `requirements.txt` or want to include demo screenshots/GIFs in the README.
-```
